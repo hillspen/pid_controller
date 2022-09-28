@@ -1,4 +1,4 @@
-# PID Controller 
+# PID Control of a Black Box Function
 
 PID controller implemented in Matlab to control an unknown Black Box function. 
 
