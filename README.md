@@ -1,4 +1,6 @@
-# PID Controller implemented in Matlab to control an unknown Black Box function. 
+# PID Controller 
+
+PID controller implemented in Matlab to control an unknown Black Box function. 
 
 Mathematical analysis conducted to determine ideal PID Values and model the Black Box function to determine controller stability properties.
 
